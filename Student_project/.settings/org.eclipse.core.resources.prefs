@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/Views/addMarks.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/Views/addStudent.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/Views/check_student.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/Views/mark_report.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/Views/marks_not_enterd.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/Views/student_display.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/Views/student_display1.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/Views/view_grades.jsp=UTF-8
