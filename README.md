@@ -1,5 +1,8 @@
 
 🎓 Student Admin Management Portal
+
+
+
 📌 Overview
 
 The Student Admin Management Portal is a backend-driven web application built using Java and Spring MVC to efficiently manage student records and administrative operations. The system follows MVC architecture and enables structured data handling with secure and scalable design.
@@ -26,7 +29,12 @@ JDBC Connectivity
 RESTful Principles
 Exception Handling
 Data Validation
+
+
 📂 Project Structure
+
+
+
 Student-Admin-Portal/
  ├── controller     → Handles HTTP requests and responses  
  ├── service        → Business logic layer  
